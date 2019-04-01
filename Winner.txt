@@ -1,0 +1,882 @@
+ 
+ ******** Round  : 
+1 Started ***********
+Team0 
+Team2 
+Team4 
+Team6 
+Team8 
+Team10 
+Team12 
+Team14 
+ 
+ ******** Round  : 
+2 Started ***********
+Team0 
+Team4 
+Team8 
+Team12 
+ 
+ ******** Round  : 
+3 Started ***********
+Team0 
+Team8 
+ 
+ ******** Round  : 
+4 Started ***********
+Team0 
+ 
+ ******** Round  : 
+1 Started ***********
+Team0 
+Team2 
+Team4 
+Team6 
+Team8 
+Team10 
+Team12 
+Team14 
+Team16 
+Team18 
+Team20 
+Team22 
+Team24 
+Team26 
+Team28 
+Team30 
+ 
+ ******** Round  : 
+2 Started ***********
+Team0 
+Team4 
+Team8 
+Team12 
+Team16 
+Team20 
+Team24 
+Team28 
+ 
+ ******** Round  : 
+3 Started ***********
+Team0 
+Team8 
+Team16 
+Team24 
+ 
+ ******** Round  : 
+4 Started ***********
+Team0 
+Team16 
+ 
+ ******** Round  : 
+5 Started ***********
+Team0 
+ 
+ ******** Round  : 
+1 Started ***********
+Team0 
+Team2 
+Team4 
+Team6 
+Team8 
+Team10 
+Team12 
+Team14 
+Team16 
+Team18 
+Team20 
+Team22 
+Team24 
+Team26 
+Team28 
+Team30 
+Team32 
+Team34 
+Team36 
+Team38 
+Team40 
+Team42 
+Team44 
+Team46 
+Team48 
+Team50 
+Team52 
+Team54 
+Team56 
+Team58 
+Team60 
+Team62 
+ 
+ ******** Round  : 
+2 Started ***********
+Team0 
+Team4 
+Team8 
+Team12 
+Team16 
+Team20 
+Team24 
+Team28 
+Team32 
+Team36 
+Team40 
+Team44 
+Team48 
+Team52 
+Team56 
+Team60 
+ 
+ ******** Round  : 
+3 Started ***********
+Team0 
+Team8 
+Team16 
+Team24 
+Team32 
+Team40 
+Team48 
+Team56 
+ 
+ ******** Round  : 
+4 Started ***********
+Team0 
+Team16 
+Team32 
+Team48 
+ 
+ ******** Round  : 
+5 Started ***********
+Team0 
+Team32 
+ 
+ ******** Round  : 
+6 Started ***********
+Team0 
+ 
+ ******** Round  : 
+1 Started ***********
+Team0 
+Team2 
+Team4 
+Team6 
+Team8 
+Team10 
+Team12 
+Team14 
+Team16 
+Team18 
+Team20 
+Team22 
+Team24 
+Team26 
+Team28 
+Team30 
+Team32 
+Team34 
+Team36 
+Team38 
+Team40 
+Team42 
+Team44 
+Team46 
+Team48 
+Team50 
+Team52 
+Team54 
+Team56 
+Team58 
+Team60 
+Team62 
+ 
+ ******** Round  : 
+2 Started ***********
+Team0 
+Team4 
+Team8 
+Team12 
+Team16 
+Team20 
+Team24 
+Team28 
+Team32 
+Team36 
+Team40 
+Team44 
+Team48 
+Team52 
+Team56 
+Team60 
+ 
+ ******** Round  : 
+3 Started ***********
+Team0 
+Team8 
+Team16 
+Team24 
+Team32 
+Team40 
+Team48 
+Team56 
+ 
+ ******** Round  : 
+4 Started ***********
+Team0 
+Team16 
+Team32 
+Team48 
+ 
+ ******** Round  : 
+5 Started ***********
+Team0 
+Team32 
+ 
+ ******** Round  : 
+6 Started ***********
+Team0 
+ 
+ ******** Round  : 
+1 Started ***********
+Team0 
+Team2 
+Team4 
+Team6 
+Team8 
+Team10 
+Team12 
+Team14 
+Team16 
+Team18 
+Team20 
+Team22 
+Team24 
+Team26 
+Team28 
+Team30 
+Team32 
+Team34 
+Team36 
+Team38 
+Team40 
+Team42 
+Team44 
+Team46 
+Team48 
+Team50 
+Team52 
+Team54 
+Team56 
+Team58 
+Team60 
+Team62 
+ 
+ ******** Round  : 
+2 Started ***********
+Team0 
+Team4 
+Team8 
+Team12 
+Team16 
+Team20 
+Team24 
+Team28 
+Team32 
+Team36 
+Team40 
+Team44 
+Team48 
+Team52 
+Team56 
+Team60 
+ 
+ ******** Round  : 
+3 Started ***********
+Team0 
+Team8 
+Team16 
+Team24 
+Team32 
+Team40 
+Team48 
+Team56 
+ 
+ ******** Round  : 
+4 Started ***********
+Team0 
+Team16 
+Team32 
+Team48 
+ 
+ ******** Round  : 
+5 Started ***********
+Team0 
+Team32 
+ 
+ ******** Round  : 
+6 Started ***********
+Team0 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team7 
+Team9 
+Team11 
+Team13 
+Team15 
+Team17 
+Team19 
+Team21 
+Team23 
+Team25 
+Team27 
+Team29 
+Team31 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team15 
+Team19 
+Team23 
+Team27 
+Team31 
+ 
+ ******** Round  : 
+3 Started ***********
+Team7 
+Team15 
+Team23 
+Team31 
+ 
+ ******** Round  : 
+4 Started ***********
+Team15 
+Team31 
+ 
+ ******** Round  : 
+5 Started ***********
+Team31 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team7 
+Team9 
+Team11 
+Team13 
+Team15 
+Team17 
+Team19 
+Team21 
+Team23 
+Team25 
+Team27 
+Team29 
+Team31 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team15 
+Team19 
+Team23 
+Team27 
+Team31 
+ 
+ ******** Round  : 
+3 Started ***********
+Team7 
+Team15 
+Team23 
+Team31 
+ 
+ ******** Round  : 
+4 Started ***********
+Team15 
+Team31 
+ 
+ ******** Round  : 
+5 Started ***********
+Team31 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team2 
+Team3 
+Team4 
+Team5 
+Team6 
+Team8 
+Team11 
+Team12 
+Team13 
+Team14 
+Team16 
+Team18 
+Team19 
+Team20 
+Team22 
+Team25 
+Team27 
+Team28 
+Team31 
+ 
+ ******** Round  : 
+2 Started ***********
+Team1 
+Team3 
+Team5 
+Team6 
+Team8 
+Team12 
+Team13 
+Team16 
+Team18 
+Team20 
+Team27 
+Team31 
+ 
+ ******** Round  : 
+3 Started ***********
+Team1 
+Team3 
+Team5 
+Team8 
+Team13 
+Team18 
+Team20 
+Team27 
+ 
+ ******** Round  : 
+4 Started ***********
+Team1 
+Team3 
+Team5 
+Team8 
+Team13 
+Team20 
+ 
+ ******** Round  : 
+5 Started ***********
+Team3 
+Team5 
+Team8 
+Team13 
+ 
+ ******** Round  : 
+6 Started ***********
+Team3 
+Team5 
+Team8 
+ 
+ ******** Round  : 
+7 Started ***********
+Team8 
+Team5 
+ 
+ ******** Round  : 
+1 Started ***********
+Team0 
+Team1 
+Team3 
+Team5 
+Team7 
+Team8 
+Team11 
+Team12 
+Team15 
+ 
+ ******** Round  : 
+2 Started ***********
+Team15 
+Team0 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team6 
+Team8 
+Team10 
+Team12 
+Team14 
+Team16 
+Team17 
+Team18 
+Team21 
+Team22 
+Team25 
+Team26 
+Team29 
+Team31 
+Team32 
+Team33 
+Team34 
+Team37 
+Team38 
+Team40 
+Team42 
+Team43 
+Team45 
+Team46 
+Team48 
+Team49 
+Team50 
+Team52 
+Team54 
+Team55 
+Team57 
+Team58 
+Team60 
+Team63 
+ 
+ ******** Round  : 
+2 Started ***********
+Team63 
+Team1 
+ 
+ ******** Round  : 
+1 Started ***********
+Team0 
+Team3 
+Team4 
+Team7 
+Team9 
+Team11 
+Team13 
+Team14 
+Team16 
+Team17 
+Team18 
+Team21 
+Team23 
+Team25 
+Team26 
+Team29 
+Team30 
+Team31 
+Team32 
+Team34 
+Team35 
+Team36 
+Team39 
+Team41 
+Team42 
+Team44 
+Team45 
+Team47 
+Team49 
+Team51 
+Team53 
+Team55 
+Team57 
+Team59 
+Team60 
+Team62 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team14 
+Team16 
+Team17 
+Team21 
+Team23 
+Team25 
+Team26 
+Team30 
+Team31 
+Team34 
+Team35 
+Team36 
+Team41 
+Team42 
+Team47 
+Team51 
+Team53 
+Team55 
+Team57 
+Team60 
+ 
+ ******** Round  : 
+3 Started ***********
+Team60 
+Team3 
+Team7 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team7 
+Team9 
+Team11 
+Team13 
+Team15 
+Team17 
+Team19 
+Team21 
+Team23 
+Team25 
+Team27 
+Team29 
+Team31 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team15 
+Team19 
+Team23 
+Team27 
+Team31 
+ 
+ ******** Round  : 
+3 Started ***********
+Team7 
+Team15 
+Team23 
+Team31 
+ 
+ ******** Round  : 
+4 Started ***********
+Team15 
+Team31 
+ 
+ ******** Round  : 
+5 Started ***********
+Team31 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team7 
+Team9 
+Team11 
+Team13 
+Team15 
+Team17 
+Team19 
+Team21 
+Team23 
+Team25 
+Team27 
+Team29 
+Team31 
+Team33 
+Team35 
+Team37 
+Team39 
+Team41 
+Team43 
+Team45 
+Team47 
+Team49 
+Team51 
+Team53 
+Team55 
+Team57 
+Team59 
+Team61 
+Team63 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team15 
+Team19 
+Team23 
+Team27 
+Team31 
+Team35 
+Team39 
+Team43 
+Team47 
+Team51 
+Team55 
+Team59 
+Team63 
+ 
+ ******** Round  : 
+3 Started ***********
+Team7 
+Team15 
+Team23 
+Team31 
+Team39 
+Team47 
+Team55 
+Team63 
+ 
+ ******** Round  : 
+4 Started ***********
+Team15 
+Team31 
+Team47 
+Team63 
+ 
+ ******** Round  : 
+5 Started ***********
+Team31 
+Team63 
+ 
+ ******** Round  : 
+6 Started ***********
+Team63 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team7 
+Team9 
+Team11 
+Team13 
+Team15 
+Team17 
+Team19 
+Team21 
+Team23 
+Team25 
+Team27 
+Team29 
+Team31 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team15 
+Team19 
+Team23 
+Team27 
+Team31 
+ 
+ ******** Round  : 
+3 Started ***********
+Team7 
+Team15 
+Team23 
+Team31 
+ 
+ ******** Round  : 
+4 Started ***********
+Team15 
+Team31 
+ 
+ ******** Round  : 
+5 Started ***********
+Team31 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team7 
+Team9 
+Team11 
+Team13 
+Team15 
+Team17 
+Team19 
+Team21 
+Team23 
+Team25 
+Team27 
+Team29 
+Team31 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team15 
+Team19 
+Team23 
+Team27 
+Team31 
+ 
+ ******** Round  : 
+3 Started ***********
+Team7 
+Team15 
+Team23 
+Team31 
+ 
+ ******** Round  : 
+4 Started ***********
+Team15 
+Team31 
+ 
+ ******** Round  : 
+5 Started ***********
+Team31 
+ 
+ ******** Round  : 
+1 Started ***********
+Team1 
+Team3 
+Team5 
+Team7 
+Team9 
+Team11 
+Team13 
+Team15 
+Team17 
+Team19 
+Team21 
+Team23 
+Team25 
+Team27 
+Team29 
+Team31 
+ 
+ ******** Round  : 
+2 Started ***********
+Team3 
+Team7 
+Team11 
+Team15 
+Team19 
+Team23 
+Team27 
+Team31 
+ 
+ ******** Round  : 
+3 Started ***********
+Team7 
+Team15 
+Team23 
+Team31 
+ 
+ ******** Round  : 
+4 Started ***********
+Team15 
+Team31 
+ 
+ ******** Round  : 
+5 Started ***********
+Team31 
